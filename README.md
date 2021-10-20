@@ -1,7 +1,7 @@
-# R-file
+# RDataAnalysis_TKU_2021Fall
 
 2021Fall TKU R網頁資料擷取與分析
-Ｕｎｉｉｉ
+
 ## 核心能力
 
 1. 基礎R語言能力。
